@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/NCKH  # dataset root dir
+train: dataset/train  # train images (relative to 'path') 128 images
+val: dataset/val  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 1  # number of classes
+names: [ 'face' ]  # class names
